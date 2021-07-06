@@ -1,0 +1,37 @@
+ul {
+  color: green;
+}
+a {
+  text-decoration: none;
+}
+div {
+  min-height: 100vh;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  box-sizing: border-box;
+  color: green;
+  font-size: 60px;
+}
+.one {
+  background-image: url("./image/basket\ ball\ in.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
+}
+.two {
+  background-image: url("./image/basket\ ball\ logo.jpg");
+  background-position: center;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+.Three {
+  background-image: url("./image/dribbles.jpg");
+  background-position: center;
+  background-repeat: repeat;
+  color: blue;
+}
+p2 {
+  color: crimson;
+}
