@@ -1,0 +1,9 @@
+li {
+  color: red;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: #00ff00;
+}
