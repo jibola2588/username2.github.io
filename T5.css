@@ -1,0 +1,44 @@
+body {
+  background-color: yellow;
+  display: flex;
+}
+.main {
+  width: 150px;
+  height: 100px;
+  background-color: blue;
+  margin: 100px 20px;
+}
+ul {
+  color: red;
+}
+a {
+  text-decoration: none;
+}
+@media screen and (min-width: 600px) {
+  body {
+    background-color: blueviolet;
+  }
+  .main {
+    background-color: yellow;
+  }
+  a {
+    color: white;
+  }
+  ul {
+    color: black;
+  }
+}
+@media screen and (min-width: 800px) {
+  body {
+    background-color: rgb(43, 226, 43);
+  }
+  .main {
+    background-color: rgb(255, 0, 64);
+  }
+  a {
+    color: rgb(22, 3, 3);
+  }
+  ul {
+    color: rgb(247, 239, 239);
+  }
+}
